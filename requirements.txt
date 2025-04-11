@@ -6,3 +6,7 @@ scikit-learn
 streamlit
 geopandas
 ipykernel # Needed only for notebook
+folium
+nbformat>=4.2.0
+streamlit
+streamlit_folium

@@ -1,2 +1,6 @@
 .DS_Store
 venv
+__pycache__/
+interactive_crime_map.html
+output/map_images/interactive_crime_map.html
+output/map_images/up_interactive_map.html
